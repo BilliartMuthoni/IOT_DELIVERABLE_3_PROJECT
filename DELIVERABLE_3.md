@@ -66,7 +66,7 @@ The system operates as follows:
 
 The prototype was implemented in the laboratory using an ESP32 DevKit mounted on a breadboard and wired to the DHT22 sensor, MQ-5 gas sensor, and a 16×2 LCD.
 
-![Physical prototype showing live sensor readings on the LCD](images/physical_prototype_readings.jpeg)
+![Physical prototype showing live sensor readings on the LCD](images/physical_prototype_readings.JPG)
 
 *Figure 1: Physical prototype in operation. The LCD displays live readings T: 24.0°C, H: 55%, Gas: 16 (SAFE).*
 
