@@ -252,11 +252,11 @@ The project demonstrated an end-to-end IoT environmental monitoring system using
 
 ![Group members working on the project](images/groupwork_evidence1.jpeg)
 
-*Figure 12: Group members con the physical prototype collaborating.*
+*Figure 12: Group members collaborating on the physical prototype.*
 
 ![Group members working on the project](images/groupwork_evidence2.jpeg)
 
-*Figure 13: Group members con the physical prototype collaborating*
+*Figure 13: Group members collaborating on the physical prototype.*
 
 ---
 
